@@ -1,0 +1,8 @@
+
+{
+  "name": "Chic 2026: The Daily Gloss",
+  "description": "A luxurious, magazine-style daily log for 2026 featuring chic pink and lime aesthetics, AI-powered editorial reflections, and beautiful stickers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
